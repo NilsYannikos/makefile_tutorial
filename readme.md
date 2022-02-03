@@ -1,4 +1,7 @@
 # Example 1
+
+`make`
+
 `make hello`
 
 `make hallo`
@@ -6,6 +9,8 @@
 `make bonjour`
 
 Run each of these in the terminal and see what the output would be. What does it do?
+
+Why is `make` the same as `make hello`?
 
 
 # Info:
