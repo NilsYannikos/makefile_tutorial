@@ -43,3 +43,8 @@ because the file of the same name has been created and now exists.
 # Example 4
 We can use variables to refer to multiple targets. 
 Try the commands and see what they do!
+
+
+# More tutorials:
+
+https://makefiletutorial.com/
